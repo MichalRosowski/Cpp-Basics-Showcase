@@ -16,9 +16,6 @@ The project demonstrates the practical application of basic programming concepts
 - **Input Validation**: Handling `std::cin` errors to ensure program stability.
 - **Cross-Platform Handling**: Console management adapted for both Windows and Unix-like systems.
 
-## 👨‍💻 Author
-**Michał Rosowski** *Aspiring Software Developer*
-
 ---
 
 ## How to Run
@@ -58,9 +55,6 @@ Narzędzie matematyczne do sprawdzania, czy liczba jest pierwsza, wykorzystując
 - **Programowanie modułowe:** Podział kodu na funkcje, co ułatwia czytelność i utrzymanie projektu.
 - **Walidacja danych:** Obsługa błędów strumienia `std::cin`, co zapobiega awariom programu przy błędnym wprowadzeniu danych (np. litery zamiast cyfry).
 - **Obsługa wieloplatformowa:** Zastąpienie komend specyficznych dla Windows (jak `system("PAUSE")`) standardowymi rozwiązaniami biblioteki C++.
-
-## 👨‍💻 Autor
-**Michał Rosowski** *Aspirujący Software Developer*
 
 ---
 
